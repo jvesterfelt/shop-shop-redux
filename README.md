@@ -13,16 +13,21 @@ A MERN stack application focused on demonstrating global state using Redux.
 - [Testing](#Testing)
 - [Questions](#Questions)  
 
+### Live deployed URL:
+https://secret-forest-00779.herokuapp.com/
+
 
 ## Installation
 
 Clone source files and install dependencies.
 
 ## Usage
-
 Run application from root folder using `npm run start` or `npm run develop`. Play with the app!
 
 #### Usage Screenshots:
+![image](https://user-images.githubusercontent.com/81572838/133951739-1d487a73-13eb-49e4-9418-13b283bc8f96.png)
+
+![image](https://user-images.githubusercontent.com/81572838/133951804-a94069a5-8007-45e6-ae56-6e979443911b.png)
 
 ## License
 
